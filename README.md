@@ -17,3 +17,8 @@ Python:
   -Ransomware file
   -shodan
   -vulnerability headers
+Setting-up:
+To run this code you need the following Python libraries: subprocess, argparse, hashlib, os, csv, datetime, platform; also that the execution of bash scripts requires Sudo permissions.
+Use:
+
+
