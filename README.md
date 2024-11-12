@@ -20,5 +20,11 @@ Python:
 Setting-up:
 To run this code you need the following Python libraries: subprocess, argparse, hashlib, os, csv, datetime, platform; also that the execution of bash scripts requires Sudo permissions.
 Use:
+This script is executed directly from the cmd, as it uses argparse it is necessary to enter the necessary data to select the activity to be performed.
+collaborators:
+elbetafk
+MaelTrevino
+erandyescaname
+
 
 
